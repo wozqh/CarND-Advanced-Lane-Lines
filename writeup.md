@@ -127,7 +127,8 @@ I implemented this step in 'Draw the image of lane result plotted back down onto
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Here's a [link to my video result](./project_video.mp4)
+Here's a [link to my video result](./project_video_result.mp4)
+Here's a [link to my challenge video result](./challenge_video_result.mp4)
 
 ---
 
